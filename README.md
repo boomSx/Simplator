@@ -1,5 +1,5 @@
-Это приложение использует в основе mtranslator API
-# Использование
+Это приложение использует в основе mtranslator
+# Установка
 ```
 git clone https://github.com/boomSx/Simplator
 git clone https://github.com/mouuff/mtranslate
