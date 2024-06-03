@@ -10,5 +10,5 @@ cd Simplator
 pip install -r requirements.txt
 ```
 # Использование
-Заходим в папку Simplator (обычно C:\Users\(пользователь)\Simplator\
+Заходим в папку Simplator (обычно C:\Users\(пользователь)\Simplator\)
 `python main.py`
