@@ -11,4 +11,4 @@ pip install -r requirements.txt
 ```
 # Использование
 Заходим в папку Simplator (обычно C:\Users\(пользователь)\Simplator\)
-`python main.py`
+`python main.py` или `python mini.py` (Только на английский язык при нажатии F2)
