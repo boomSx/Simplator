@@ -1,3 +1,7 @@
 keyboard
 translate
 pyperclip
+click
+lxml
+requests
+libretranslatepy==2.1.1
